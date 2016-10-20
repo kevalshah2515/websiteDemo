@@ -1,0 +1,74 @@
+ #productname
+ {
+ 	padding-top:40px;
+ 	padding-left:50px;
+ 	padding-bottom: 20px;
+ 	background-color:#bfbfbf;
+ 	text-align:center;
+ }
+
+ #testimonials 
+ {
+ 	padding-top:40px;
+ 	padding-left:50px;
+ 	padding-bottom: 20px;
+ 	background-color: #ffa333;
+ }
+
+ #features
+ {
+padding-top:40px;
+ 	padding-left:50px;
+ 	padding-bottom: 20px;
+ }
+
+#gallery
+{
+	padding-top:40px;
+ 	padding-left:50px;
+ 	padding-bottom:20px;
+}
+
+#faq
+{
+	padding-top:40px;
+ 	padding-left:50px;
+ 	padding-bottom:20px;
+}
+
+#contactus
+{
+	padding-top:40px;
+ 	padding-left:50px;
+ 	padding-bottom:20px;
+}
+
+
+#padding
+{
+	padding:10 10 10 10;
+}
+
+hr {
+  border-color: #bfbfbf;
+  border-width: 1px;
+  max-width: auto;
+}
+
+#unique{
+	font-style: italic;
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.border-left {
+    border-left: 2px solid black;
+}
+
+
+
+.mycontent-left {
+  border-right: 1px dashed #333;
+}
+
